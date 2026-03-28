@@ -101,3 +101,108 @@ He is a generous man — he will listen.
 He can resupply us.  
 Then, we rebuild… and begin anew.
 
+
+Absolutely — here’s your new set of dialogue formatted in the **same clean Markdown script style** as before. I kept the pacing, tone, and scene breaks consistent so it fits seamlessly with the earlier sections.
+
+---
+
+## **Scene 1 — Searching for the King**
+
+**Party Leader:** Excuse me sir, where may I find the King? 
+
+**Civilian:** Gone. Left a few days ago. He's probably in Tymmini for business. He should be back in a week or two.  
+
+**Party Leader:** A week or two? … We don't have time to wait...  
+
+**Civilian:** *Sigh…* If you want to catch up with him in Tymmini, the fastest way would be via Passenger Boat. Just buy a ticket. Now, begone!
+
+---
+
+## **Scene 2 — Another Lead**
+
+**Civilian:** I suppose you're looking for the King?  
+
+**Party Leader:** Yeah, have you seen him? We need to speak to him.  
+
+**Civilian:** Well, you just missed him. He's traveling to the town of Malaek by horse.  
+He goes there after business to relax usually.  
+
+It's east of here, just past the Wetlands, hidden within the mountains — a glorious natural haven.
+
+---
+
+## **Scene 3 — Meeting King Valdos**
+
+**Party Leader:** King…?  
+
+**King Valdos:** Yes, I *am* King, but my name is Valdos. What brings you to Malaek?  
+
+**Party Leader:** We bear bad news. Slenzar was attacked and raided by the Zelshiky Tribe and is in urgent need of supplies.  
+
+**King Valdos:** What? Cidel, a respected man of the Church, attacked by a recently declared ally tribe?  
+
+That's ridiculous! Who are you people anyway? Surely not employed messengers of Cidel himself...  
+
+**Party Leader:** We are adventurers who happened upon the town of Slenzar after a long travel.  
+
+They attacked at night and caught us off guard, forcing us into the cave hideout.
+
+Sister Manella said they raided the town because they were looking for something...  
+
+**King Valdos:** Hmm… Harmony Gems…  
+
+**Party Leader:** … What are those?  
+
+**King Valdos:** Nevermind that — simply myths and foolery.  
+
+What matters is that I believe you, and that Cidel and the people of Slenzar need my help.  
+
+I will give you **three wagons** filled with supplies.  
+
+It is your responsibility to bring these supplies to Slenzar safely.  
+
+If one of these wagons is destroyed, you will have to pay the price — and return here for another.  
+
+I will also provide some of my men to help move the supplies.  
+Good luck.
+
+---
+
+## **Scene 4 — Return to Slenzar**
+
+**Priest Cidel:** The supplies… you've done it! Oh my God, it's a miracle!  
+Now we must use these blessings to begin reconstruction. 
+
+Yes… Slenzar will be bigger and stronger than ever before!
+
+---
+
+## **Scene 5 — Gratitude… and a New Mission**
+
+**Priest Cidel:** Ah yes… so pretty… all mine…  
+
+**Priest Cidel:** *cough* Uh… *cough* … Ahem!  
+
+**Priest Cidel:** …There you are!  
+
+The heroes who brought the desperately needed supplies to my beloved town, helped the townspeople remake their homes, and put out the burning flames that consumed their air.  
+You're always welcome in my Castle!  
+
+**Party Leader:** … Thank you. Well… now that everything is back to the way it was, we were hoping for some pay — at least enough so we might continue our travels.  
+
+**Priest Cidel:** But everything is *not* the way it was, young adventurers!  
+There was a time when the people of Slenzar lived peacefully, without fear of attack from this savage group.  
+
+With them still around, all your hard work could simply vanish if they were to strike again...  
+
+**Party Leader:** I suppose you're right… We will find the Zelshiky Tribe.  
+
+**Priest Cidel:** And you will be greatly rewarded!  
+
+My men have searched for them for some time but have been unsuccessful.  
+
+But you, my friends… you have a gift — a skill for tracking and maneuvering in the vast wilderness.  
+
+If you're to find them, kill the leader, and the rest will wither away with his dying corpse...
+
+
