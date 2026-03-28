@@ -1,18 +1,16 @@
 # Zelshiky Tribe RPG (v1.15)
 
-**A guide & tutorial**
-
 -----
 
 ## Table of Contents
 
-  * [Story](https://www.google.com/search?q=%23story)
-  * [Heroes](https://www.google.com/search?q=%23heroes)
-  * [Abilities](https://www.google.com/search?q=%23abilities)
-  * [Quests](https://www.google.com/search?q=%23quests)
-  * [Items](https://www.google.com/search?q=%23items)
-  * [Energy](https://www.google.com/search?q=%23energy)
-  * [Buildings & Shops](https://www.google.com/search?q=%23buildings--shops)
+  * [Story](./ZelshikyTribeRPG.md#story)
+  * [Heroes](./ZelshikyTribeRPG.md#heroes)
+  * [Abilities](./ZelshikyTribeRPG.md#abilities)
+  * [Quests](./ZelshikyTribeRPG.md#quests)
+  * [Items](./ZelshikyTribeRPG.md#items)
+  * [Energy](./ZelshikyTribeRPG.md#energy)
+  * [Buildings & Shops](./ZelshikyTribeRPG.md#buildings)
 
 -----
 
