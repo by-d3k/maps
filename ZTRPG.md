@@ -2,6 +2,142 @@
 
 ---
 
+# **📚 Character Codex **
+
+---
+
+## **PRIEST CIDEL**
+**Role:** High Priest of Slenzar  
+**Affiliation:** Church of Ely  
+**Personality:** Charismatic, authoritative, calculating  
+**Public Image:** Beloved spiritual leader  
+**True Nature (Revealed):** Manipulative, power‑hungry, morally corrupt  
+
+**Overview:**  
+Cidel presents himself as a compassionate guardian of Slenzar, but beneath the surface lies a man driven by greed and ambition. His theft of the **Harmony Gems** triggered the downfall of the Zelshiky Tribe, causing widespread sickness and death. He hides behind religious authority, using faith as a shield for his crimes.
+
+**Notable Traits:**  
+- Skilled orator; easily manipulates crowds  
+- Obsessed with the Harmony Gems  
+- Maintains a façade of benevolence  
+- Capable of orchestrating raids and cover‑ups  
+
+---
+
+## **PARTY LEADER**
+**Role:** Protagonist / Adventurer  
+**Affiliation:** Independent  
+**Personality:** Determined, morally grounded, adaptable  
+
+**Overview:**  
+A wandering adventurer who stumbles into the conflict between Slenzar and the Zelshiky Tribe. Initially misled by Cidel’s authority, the Party Leader becomes a key figure in uncovering the truth and restoring balance. Their willingness to admit fault and seek redemption sets them apart from typical mercenaries.
+
+**Notable Traits:**  
+- Strong sense of justice  
+- Quick to act, sometimes without full information  
+- Capable of diplomacy and combat  
+- Open to changing beliefs when confronted with truth  
+
+---
+
+## **ZELK**
+**Role:** Leader of the Zelshiky Tribe  
+**Affiliation:** Zelshiky Tribe  
+**Personality:** Gentle, scholarly, weary  
+**Public Image (Slenzar):** Savage warlord  
+**True Nature:** Peaceful leader burdened by tragedy  
+
+**Overview:**  
+Zelk is not a warrior but a thinker — a man who prefers books to blades. His tribe once thrived under the power of the Harmony Gems, but after Cidel stole them, the Zelshiky people fell into sickness and despair. Zelk’s desperation to recover the Gems led to conflict, but his intentions were rooted in survival, not conquest.
+
+**Notable Traits:**  
+- Deep knowledge of ancient lore  
+- Strong moral compass despite suffering  
+- Carries immense guilt for the tribe’s downfall  
+- Seeks peace, not war  
+
+---
+
+## **BAMBOSA**
+**Role:** Zelshiky Warrior  
+**Affiliation:** Zelshiky Tribe  
+**Personality:** Hot‑headed, impulsive, fiercely loyal  
+
+**Overview:**  
+Bambosa is a warrior whose temper often outpaces his judgment. Though loyal to Zelk, he struggles with grief and rage over the tribe’s suffering. His hostility toward outsiders stems from trauma rather than malice.
+
+**Notable Traits:**  
+- Quick to anger  
+- Protective of his people  
+- Distrustful of outsiders  
+- Ultimately misguided rather than evil  
+
+---
+
+## **KING VALDOS**
+**Role:** King of Gixon  
+**Affiliation:** Kingdom of Gixon  
+**Personality:** Rational, fair, skeptical but compassionate  
+
+**Overview:**  
+Valdos is a ruler who values truth and justice. Though initially doubtful of the Party Leader’s claims, he quickly recognizes the urgency of Slenzar’s plight. His willingness to provide supplies and manpower demonstrates his commitment to peace and stability in the region.
+
+**Notable Traits:**  
+- Level‑headed and diplomatic  
+- Values evidence over rumor  
+- Generous with resources  
+- Holds deep respect for Cidel… until the truth emerges  
+
+---
+
+## **SISTER MANELLA**
+**Role:** Cleric of Slenzar  
+**Affiliation:** Church of Ely  
+**Personality:** Devout, stern, dutiful  
+
+**Overview:**  
+A loyal servant of the Church, Sister Manella believes wholeheartedly in divine justice. Though unaware of Cidel’s corruption, she acts with genuine compassion toward the suffering. Her faith is unwavering, but her trust in Cidel may be misplaced.
+
+**Notable Traits:**  
+- Strong moral conviction  
+- Tends to the wounded and displaced  
+- Speaks with religious authority  
+- Could become a key ally — or a tragic pawn  
+
+---
+
+## **THE ZELSHIKY TRIBE**
+**Role:** Nomadic Tribe  
+**Affiliation:** Harmony Gem Guardians  
+**Personality (Collective):** Spiritual, resilient, misunderstood  
+
+**Overview:**  
+Once prosperous and peaceful, the Zelshiky Tribe fell into ruin after the Harmony Gems were stolen. Their sickness, desperation, and displacement led to conflict with Slenzar. Their culture is deeply tied to the spiritual world and ancient lore.
+
+**Notable Traits:**  
+- Deep spiritual traditions  
+- Strong connection to the Harmony Gems  
+- Victims of Cidel’s greed  
+- Not inherently hostile  
+
+---
+
+## **THE HARMONY GEMS**
+**Role:** Ancient Artifacts  
+**Origin:** Spirit of Harmony  
+**Properties:** Life‑giving energy, spiritual resonance  
+
+**Overview:**  
+The Gems once served as a bridge between the physical and spiritual worlds. Their energy sustained the Zelshiky Tribe for generations. Their theft destabilized both the tribe and the spiritual balance of the region.
+
+**Notable Traits:**  
+- Three in total  
+- One recovered by Cidel  
+- Two lost with missing runners  
+- Central to the world’s ancient mythos  
+
+---
+
 # **Story Dialogue**
 
 ---
@@ -106,7 +242,7 @@ Absolutely — here’s your new set of dialogue formatted in the **same clean M
 
 ---
 
-## **Scene 1 — Searching for the King**
+## **Scene 5 — Searching for the King**
 
 **Party Leader:** Excuse me sir, where may I find the King? 
 
@@ -118,20 +254,18 @@ Absolutely — here’s your new set of dialogue formatted in the **same clean M
 
 ---
 
-## **Scene 2 — Another Lead**
+## **Scene 6 — Another Lead**
 
 **Civilian:** I suppose you're looking for the King?  
 
 **Party Leader:** Yeah, have you seen him? We need to speak to him.  
 
 **Civilian:** Well, you just missed him. He's traveling to the town of Malaek by horse.  
-He goes there after business to relax usually.  
-
-It's east of here, just past the Wetlands, hidden within the mountains — a glorious natural haven.
+He goes there after business to relax usually. It's east of here, just past the Wetlands, hidden within the mountains — a glorious natural haven.
 
 ---
 
-## **Scene 3 — Meeting King Valdos**
+## **Scene 7 — Meeting King Valdos**
 
 **Party Leader:** King…?  
 
@@ -139,70 +273,141 @@ It's east of here, just past the Wetlands, hidden within the mountains — a glo
 
 **Party Leader:** We bear bad news. Slenzar was attacked and raided by the Zelshiky Tribe and is in urgent need of supplies.  
 
-**King Valdos:** What? Cidel, a respected man of the Church, attacked by a recently declared ally tribe?  
+**King Valdos:** What? Cidel, a respected man of the Church, attacked by a recently declared ally tribe? That's ridiculous! Who are you people anyway? Surely not employed messengers of Cidel himself...  
 
-That's ridiculous! Who are you people anyway? Surely not employed messengers of Cidel himself...  
-
-**Party Leader:** We are adventurers who happened upon the town of Slenzar after a long travel.  
-
-They attacked at night and caught us off guard, forcing us into the cave hideout.
-
-Sister Manella said they raided the town because they were looking for something...  
+**Party Leader:** We are adventurers who happened upon the town of Slenzar after a long travel. They attacked at night and caught us off guard, forcing us into the cave hideout. Sister Manella said they raided the town because they were looking for something...  
 
 **King Valdos:** Hmm… Harmony Gems…  
 
 **Party Leader:** … What are those?  
 
-**King Valdos:** Nevermind that — simply myths and foolery.  
-
-What matters is that I believe you, and that Cidel and the people of Slenzar need my help.  
-
-I will give you **three wagons** filled with supplies.  
-
-It is your responsibility to bring these supplies to Slenzar safely.  
-
-If one of these wagons is destroyed, you will have to pay the price — and return here for another.  
-
-I will also provide some of my men to help move the supplies.  
+**King Valdos:** Nevermind that — simply myths and foolery. What matters is that I believe you, and that Cidel and the people of Slenzar need my help. I will give you **three wagons** filled with supplies. It is your responsibility to bring these supplies to Slenzar safely. If one of these wagons is destroyed, you will have to pay the price — and return here for another. I will also provide some of my men to help move the supplies.  
 Good luck.
 
 ---
 
-## **Scene 4 — Return to Slenzar**
+## **Scene 8 — Return to Slenzar**
 
 **Priest Cidel:** The supplies… you've done it! Oh my God, it's a miracle!  
-Now we must use these blessings to begin reconstruction. 
-
-Yes… Slenzar will be bigger and stronger than ever before!
+Now we must use these blessings to begin reconstruction. Yes… Slenzar will be bigger and stronger than ever before!
 
 ---
 
-## **Scene 5 — Gratitude… and a New Mission**
+## **Scene 9 — Gratitude… and a New Mission**
 
 **Priest Cidel:** Ah yes… so pretty… all mine…  
 
 **Priest Cidel:** *cough* Uh… *cough* … Ahem!  
 
-**Priest Cidel:** …There you are!  
-
-The heroes who brought the desperately needed supplies to my beloved town, helped the townspeople remake their homes, and put out the burning flames that consumed their air.  
-You're always welcome in my Castle!  
+**Priest Cidel:** …There you are! The heroes who brought the desperately needed supplies to my beloved town, helped the townspeople remake their homes, and put out the burning flames that consumed their air. You're always welcome in my Castle!  
 
 **Party Leader:** … Thank you. Well… now that everything is back to the way it was, we were hoping for some pay — at least enough so we might continue our travels.  
 
 **Priest Cidel:** But everything is *not* the way it was, young adventurers!  
-There was a time when the people of Slenzar lived peacefully, without fear of attack from this savage group.  
-
-With them still around, all your hard work could simply vanish if they were to strike again...  
+There was a time when the people of Slenzar lived peacefully, without fear of attack from this savage group. With them still around, all your hard work could simply vanish if they were to strike again...  
 
 **Party Leader:** I suppose you're right… We will find the Zelshiky Tribe.  
 
-**Priest Cidel:** And you will be greatly rewarded!  
+**Priest Cidel:** And you will be greatly rewarded! My men have searched for them for some time but have been unsuccessful. But you, my friends… you have a gift — a skill for tracking and maneuvering in the vast wilderness. If you're to find them, kill the leader, and the rest will wither away with his dying corpse...
 
-My men have searched for them for some time but have been unsuccessful.  
+Absolutely — here is **Scene 10 onward**, formatted in the same **clean Markdown script style**, with **all character names capitalized**, and keeping the dramatic pacing intact.
 
-But you, my friends… you have a gift — a skill for tracking and maneuvering in the vast wilderness.  
+---
 
-If you're to find them, kill the leader, and the rest will wither away with his dying corpse...
+# **Scene 10 — The Sacred Camp**
+
+**PARTY LEADER:** We're here for Zelk!  
+**BAMBOSA:** Who dares enter the sacred camp!  
+**PARTY LEADER:** Your tribe has committed treacherous acts toward the town of Slenzar. It's time to answer for your crimes!  
+**BAMBOSA:** Ha! *You* are the hypocrites and murderers! Scum like you should die!
+
+---
+
+# **Scene 11 — Confronting Zelk**
+
+**PARTY LEADER:** Now Zelk, it's your turn! Fight us!  
+**ZELK:** …I'm not much of a fighter. I spend my time reading… mostly.  
+**PARTY LEADER:** No matter, we will make the first move!  
+**ZELK:** Do you know what kind of man Cidel is?  
+**PARTY LEADER:** The kind that cares for his innocent people, and alleviates their suffering… caused by blood‑thirsty, war‑crazed people like yourself!  
+
+**ZELK:** Suffering? Have you not looked at our camp?  
+Have you not seen the death and sickness that plagues my people?  
+It has been with us for some time — because of that man you speak so highly of!  
+
+**PARTY LEADER:** How could he have brought you this?  
+No… this looks more like negligence from a sadistic leader who spends his time orchestrating battles.  
+
+**ZELK:** He took the very thing that brought our tribe great peace and prosperity…  
+the **Harmony Gems**.  
+
+They made us thrive like never before.  
+We depended on them — they were our life force.  
+Ever since he took the Gems, our tribe has fallen into a deep sickness, unable to continue normal life.  
+We are dying slowly and painfully.  
+
+**PARTY LEADER:** …What would be the purpose of taking these Gems?  
+
+**ZELK:** Profit.  
+The Gems are very valuable, which is why he tried to steal all three of them.  
+
+The night it happened, he attacked us — raided our camps — killed my people.  
+I gave each Gem to a runner, who would hide it somewhere in the wilderness until his forces left.  
+He killed one runner and retrieved one Gem…  
+and the other two runners never returned.
+
+---
+
+# **Scene 12 — Zelk’s Account (Lore Fragment)**
+
+```
+We came across them after a long journey, having been forced from our
+homes by the tribal wars — half-starved, battered and bloody, and on the
+brink of death. A scout had spotted them, but I could feel their
+extraordinary glow for miles, and knew that their strange energy was our
+only hope of survival.
+
+They made us thrive like never before. We depended on them… they were
+our life force. Ever since he took the Gems, our tribe has fallen into a
+deep sickness, unable to continue normal life. We are dying slowly and
+painfully.
+
+Profit, perhaps. Although I fear much worse. Our ancestors told stories
+of a time when our world and the spirit world lay open to each other:
+one, a vast platform for creation; the other, an eternal reflection of
+those creations in the incorporeal life after death.
+
+This balance was sustained by the Spirit of Harmony, the ancient
+gatekeeper for the newly departed. But as humanity grew — and its
+emotions darkened — the bridge twisted under the weight of hatred,
+anger, and war. The spirit herself grew bitter and dark.
+
+Seeing the corruption, the Spirit of Ely, creator of humankind, tore her
+friend asunder, severing both their ties to the spirit world forever.
+```
+
+---
+
+# **Scene 13 — A Change of Heart**
+
+**PARTY LEADER:** …Something was off from the very beginning.  
+We've killed so many… for what?  
+
+**ZELK:** I understand.  
+As for Bambosa — he was immature, always had a short fuse and a long temper.  
+Honestly, I think he stuck around waiting for me to croak…  
+
+**PARTY LEADER:** Cidel seemed so… normal.  
+Well, we will start over.  
+We will help you get your Gems back — it's the least we can do for the tribe members we've killed…  
+
+**ZELK:** If you were to retrieve them, any previous actions would surely be forgotten.  
+You would be remembered always in the books of our age.  
+
+First, you must look for the two lost Gems.  
+They could be anywhere by now…
+
+---
+
 
 
