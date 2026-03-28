@@ -409,5 +409,98 @@ They could be anywhere by now…
 
 ---
 
+# **Scene 14 — A Pact with Zelk**
+
+**ZELK:** …Thank you. You're truly great men, bringing hope to a devastated people.  
+All your previous debts or acts of violence toward the tribe are outweighed by the crucial help you've provided.  
+
+**PARTY LEADER:** The last Gem… Cidel has it.  
+
+**ZELK:** I feared it would come to this.  
+He carries it with him at all times… and he is a very protected man, careful and insistent on security.  
+We'll have to go to war with him — until every person has given their last ounce of effort for the good of the tribe.  
+
+**PARTY LEADER:** And we will be right beside you.  
+
+**ZELK:** Go to the Plains, outside Slenzar. I will be there with my army.
+
+---
+
+# **Scene 15 — Rallying the Tribe**
+
+**ZELK:** Now, men, this is our last chance.  
+Our last opportunity to give our wives and children a world without pain or suffering.  
+
+Let these thieves before us — who have taken our peace — regret the day they slaughtered our innocents.  
+Let them burn on their way down to judgement!
+
+---
+
+# **Scene 16 — Confronting Cidel**
+
+**PRIEST CIDEL:** Hello again. Have you loyal men done the deed?  
+
+**PARTY LEADER:** Save it, Cidel. We know about the Harmony Gems.  
+
+**PRIEST CIDEL:** …You know nothing.  
+
+**PARTY LEADER:** They're all dying of disease because of you.  
+The Harmony Gems are a source of peace — and you steal them for money.  
+And to think you call yourself a Priest…  
+
+**PRIEST CIDEL:** Money is expendable.  
+The book by the discoverer proves they are far too valuable to be traded for mere paper.  
+
+A century ago, he found them and experimented for days and nights.  
+He concluded their powers grew stronger the closer they were to each other.  
+When he melded them all together… it created a **dimensional portal**.  
+
+**PARTY LEADER:** …You're absolutely crazy.  
+I can't believe I couldn't see this before.  
+Seriously — multiple dimensions?  
+
+**PRIEST CIDEL:** One of the dimensions he found was completely empty.  
+Imagine the possibilities of a whole new world —  
+a world without King Valdos in my way, without superiors, without preset rules.  
+
+A world that *I* discover… a world that *I* shape…  
+
+**PARTY LEADER:** You’d be… a supreme ruler…  
+
+**PRIEST CIDEL:** How bright you are!  
+The first supreme leader to ever exist in the **Second Dimension**.  
+That’s what I’ll call it!  
+
+I will become enshrined in the books of this new world as the founder —  
+the one and only true leader —  
+the most important person to ever exist in the new world…  
+
+**PARTY LEADER:** It can’t be that simple.  
+You can’t just tamper with nature and expect it not to bite back.  
+Some things should be left alone.  
+
+**SISTER MANELLA:** And I will be right beside him — so will God.  
+Unfortunately, you know too much… so you must disappear.
+
+---
+
+# **Scene 17 — Cidel Unleashed**
+
+**PRIEST CIDEL:** Haha!  
+You did me a favor by killing her — she wanted more than I was willing to provide.  
+What a crazy woman!  
+She thought I would give her partial power over the new dimension.  
+
+It will **ALL** be mine! Ahahahaha!  
+
+**PRIEST CIDEL:** The Gem has done more for me than I could ever imagine!  
+Just one of them has given me… such power…  
+I can feel it streaming through my very blood!  
+
+A strength unmatched by any mortal.  
+And soon, I will be a God — and the Second Dimension my subject.  
+No one will even know it exists… except you, of course.  
+
+That, however… is the easiest part to fix.
 
 
