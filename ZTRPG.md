@@ -8,12 +8,14 @@
 
 ## **Scene 1 — Arrival at Slenzar**
 
-**[Slenzar outskirts — early morning]**
+**[Slenzar castle — candle-lit interior]**
 
 **PRIEST CIDEL:** It's nice to see new faces around Slenzar. Are you all well?  
+
 **PARTY LEADER:** After a good night's rest, we should be fine.  
 
 **PRIEST CIDEL:** You seem like a healthy lot. If you seek work, my militia could always use more good men…  
+
 **PARTY LEADER:** No, we will only be staying for the night...  
 
 **PRIEST CIDEL:** Well then! Stay here at Slenzar as long as you must.  
@@ -26,6 +28,7 @@ I have important matters to deal with. I will speak with you later...
 **[Town square — alarms ringing outside]**
 
 **PRIEST CIDEL:** Travelers! How glad I am to see you! I assume you heard the madness outside?  
+
 **PARTY LEADER:** What's going on?  
 
 **PRIEST CIDEL:** The Zelshiky Tribe has assembled an army and are outside Slenzar about to attack.  
@@ -98,13 +101,3 @@ He is a generous man — he will listen.
 He can resupply us.  
 Then, we rebuild… and begin anew.
 
----
-
-If you want, I can also turn this into:
-
-- **Cutscene subtitles**  
-- **Quest log entries**  
-- **Dialogue box format (JRPG-style)**  
-- **A cinematic screenplay with camera directions**
-
-Just tell me the vibe you want to explore next.
