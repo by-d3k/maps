@@ -290,11 +290,7 @@ Download: [All-StarBaseball](../files/All-StarBaseball.scx)
 
 ---
 
-# **COLUMN 2 — Zones 6–10**
-
----
-
-## <details><summary><strong>ZONE 6 — Top of Column 2</strong></summary>
+## <details><summary><strong>ZONE 6 — Top Left Mid</strong></summary>
 
 **HR Chance:** 0%  
 **Hard‑Hit Chance:** 37% (Opposite‑field)
@@ -311,7 +307,7 @@ Download: [All-StarBaseball](../files/All-StarBaseball.scx)
 
 ---
 
-## <details><summary><strong>ZONE 7 — Row 2, Column 2</strong></summary>
+## <details><summary><strong>ZONE 7 — Mid Left Center</strong></summary>
 
 **HR Chance:** 12%
 
@@ -327,7 +323,7 @@ Download: [All-StarBaseball](../files/All-StarBaseball.scx)
 
 ---
 
-## <details><summary><strong>ZONE 8 — Row 3, Column 2</strong></summary>
+## <details><summary><strong>ZONE 8 — Mid Left Center</strong></summary>
 
 **HR Chance:** 50% (Dead Center)
 
@@ -343,7 +339,7 @@ Download: [All-StarBaseball](../files/All-StarBaseball.scx)
 
 ---
 
-## <details><summary><strong>ZONE 9 — Row 4, Column 2</strong></summary>
+## <details><summary><strong>ZONE 9 — Bottom Left Center</strong></summary>
 
 **HR Chance:** 12%
 
@@ -359,7 +355,7 @@ Download: [All-StarBaseball](../files/All-StarBaseball.scx)
 
 ---
 
-## <details><summary><strong>ZONE 10 — Row 5, Column 2</strong></summary>
+## <details><summary><strong>ZONE 10 — Bottom Left Mid</strong></summary>
 
 **HR Chance:** 0%  
 **Hard‑Hit Chance:** 31% (Pull)
@@ -376,11 +372,7 @@ Download: [All-StarBaseball](../files/All-StarBaseball.scx)
 
 ---
 
-# **COLUMN 3 — Zones 11–15 (Already Correct)**
-
----
-
-## <details><summary><strong>ZONE 11 — Top of Column 3</strong></summary>
+## <details><summary><strong>ZONE 11 — Top Right Mid</strong></summary>
 
 **HR Chance:** 0%  
 **Hard‑Hit Chance:** 31% (Opposite‑field)
@@ -397,7 +389,7 @@ Download: [All-StarBaseball](../files/All-StarBaseball.scx)
 
 ---
 
-## <details><summary><strong>ZONE 12 — Row 2, Column 3</strong></summary>
+## <details><summary><strong>ZONE 12 — Top Right Center</strong></summary>
 
 **HR Chance:** 12%
 
@@ -413,7 +405,7 @@ Download: [All-StarBaseball](../files/All-StarBaseball.scx)
 
 ---
 
-## <details><summary><strong>ZONE 13 — Row 3, Column 3</strong></summary>
+## <details><summary><strong>ZONE 13 — Mid Right Center</strong></summary>
 
 **HR Chance:** 50% (Dead Center)
 
@@ -429,7 +421,7 @@ Download: [All-StarBaseball](../files/All-StarBaseball.scx)
 
 ---
 
-## <details><summary><strong>ZONE 14 — Row 4, Column 3</strong></summary>
+## <details><summary><strong>ZONE 14 — Bottom Right Center</strong></summary>
 
 **HR Chance:** 12%
 
@@ -445,7 +437,7 @@ Download: [All-StarBaseball](../files/All-StarBaseball.scx)
 
 ---
 
-## <details><summary><strong>ZONE 15 — Row 5, Column 3</strong></summary>
+## <details><summary><strong>ZONE 15 — Bottom Right Mid</strong></summary>
 
 **HR Chance:** 0%  
 **Hard‑Hit Chance:** 31% (Pull)
@@ -459,10 +451,6 @@ Download: [All-StarBaseball](../files/All-StarBaseball.scx)
 | o | o | **●** | o |
 
 </details>
-
----
-
-# **COLUMN 4 — Zones 16–20 (Shifted to Last Column)**
 
 ---
 
@@ -483,7 +471,7 @@ Download: [All-StarBaseball](../files/All-StarBaseball.scx)
 
 ---
 
-## <details><summary><strong>ZONE 17 — Row 2, Column 4</strong></summary>
+## <details><summary><strong>ZONE 17 — Top Right Center</strong></summary>
 
 **HR Chance:** 6%  
 **Hard‑Hit Chance:** 25% (Opposite‑field)
@@ -500,7 +488,7 @@ Download: [All-StarBaseball](../files/All-StarBaseball.scx)
 
 ---
 
-## <details><summary><strong>ZONE 18 — Row 3, Column 4</strong></summary>
+## <details><summary><strong>ZONE 18 — Right Center</strong></summary>
 
 **HR Chance:** 18%  
 **Hard‑Hit Chance:** 50% (Opposite‑field)
@@ -517,7 +505,7 @@ Download: [All-StarBaseball](../files/All-StarBaseball.scx)
 
 ---
 
-## <details><summary><strong>ZONE 19 — Row 4, Column 4</strong></summary>
+## <details><summary><strong>ZONE 19 — Right Bottom Center</strong></summary>
 
 **HR Chance:** 6%  
 **Hard‑Hit Chance:** 25% (Opposite‑field)
@@ -534,7 +522,7 @@ Download: [All-StarBaseball](../files/All-StarBaseball.scx)
 
 ---
 
-## <details><summary><strong>ZONE 20 — Row 5, Column 4</strong></summary>
+## <details><summary><strong>ZONE 20 — Bottom Right</strong></summary>
 
 **HR Chance:** 0%  
 **Hard‑Hit Chance:** 25% (Opposite‑field or Pull)
