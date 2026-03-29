@@ -87,6 +87,38 @@ Download: [All-StarBaseball](../files/All-StarBaseball.scx)
 
 # 🪓 Special Bats
 
+## **Metal Bat**
+- Guarantees a **Hard Hit** (faster air travel)  
+- Hard Hits can be **Line Drives** or **Worm Burners**  
+- Line Drives: fast, difficult to catch  
+- Worm Burners: fast grounders but can be stopped by fielders
+
+---
+
+## **Corked Bat**
+- Adds extra power to the next hit  
+- Power has a cap (tank explosion level)  
+- Slightly increases homerun chance  
+- Balls always **Bounce**, increasing chance of a **Ground Rule Double**  
+- If not caught, a Bounce makes the ball travel farther
+
+---
+
+## **Wiffle Bat**
+- Causes the ball to curve in the air (similar to **Wind**)  
+- Long hits may take sharp, unexpected turns  
+- Balls always have a **Bad Hop**  
+- A Bad Hop causes a sudden sharp turn when the ball hits the ground
+
+---
+
+## **Cricket Bat**
+- Hides the **Trail** of the ball in the air (similar to **Sun** effect)  
+- Trail normally helps fielders predict when the ball will fall  
+- Amount of hidden Trail varies
+
+---
+
 ## **Rubber Bat**
 - Always produces a ball with continuous **Bounce**  
 - Ball may bounce **5–7 times**  
@@ -103,67 +135,13 @@ Download: [All-StarBaseball](../files/All-StarBaseball.scx)
 
 ---
 
-## **Cricket Bat**
-- Hides the **Trail** of the ball in the air (similar to **Sun** effect)  
-- Trail normally helps fielders predict when the ball will fall  
-- Amount of hidden Trail varies
-
----
-
-## **Wiffle Bat**
-- Causes the ball to curve in the air (similar to **Wind**)  
-- Long hits may take sharp, unexpected turns  
-- Balls always have a **Bad Hop**  
-- A Bad Hop causes a sudden sharp turn when the ball hits the ground
-
----
-
-## **Corked Bat**
-- Adds extra power to the next hit  
-- Power has a cap (tank explosion level)  
-- Slightly increases homerun chance  
-- Balls always **Bounce**, increasing chance of a **Ground Rule Double**  
-- If not caught, a Bounce makes the ball travel farther
-
----
-
-## **Metal Bat**
-- Guarantees a **Hard Hit** (faster air travel)  
-- Hard Hits can be **Line Drives** or **Worm Burners**  
-- Line Drives: fast, difficult to catch  
-- Worm Burners: fast grounders but can be stopped by fielders
-
----
-
 # 🎯 Special Pitches
 
-## **Spitball**
-- Always results in a foul ball straight back to the catcher  
-- Can result in a **Foul Tip** if caught  
-- Pull Hitting on inside pitches reduces foul chance by **75%**  
-- Same for Opposite Field Hitting  
-- Nullifies all **Hard Hits**
-
----
-
-## **Sinker**
-- Starts as a **4‑Seam Fastball**, then slows to normal fastball speed at the plate  
-- Effective when thrown off the plate and curved back in  
-- Opposite behavior of a **Slider**
-
----
-
-## **Slider**
-- Looks like a normal fastball, then suddenly accelerates to **4‑Seam** speed near the plate  
-- May take a wider turn during acceleration  
-- Excellent finishing pitch for strikeouts
-
----
-
-## **Knuckleball**
-- Moves erratically and unpredictably  
-- Tends to stay aligned with the catcher for partial control  
-- High risk of **steals** and **wild pitches**
+## **4‑Seam Fastball**
+- Travels faster than a normal fastball  
+- Goes in a straight line to the catcher’s initial position  
+- Fastest pitch to reach home plate  
+- Effective at preventing steals
 
 ---
 
@@ -174,11 +152,33 @@ Download: [All-StarBaseball](../files/All-StarBaseball.scx)
 
 ---
 
-## **4‑Seam Fastball**
-- Travels faster than a normal fastball  
-- Goes in a straight line to the catcher’s initial position  
-- Fastest pitch to reach home plate  
-- Effective at preventing steals
+## **Knuckleball**
+- Moves erratically and unpredictably  
+- Tends to stay aligned with the catcher for partial control  
+- High risk of **steals** and **wild pitches**
+
+---
+
+## **Slider**
+- Looks like a normal fastball, then suddenly accelerates to **4‑Seam** speed near the plate  
+- May take a wider turn during acceleration  
+- Excellent finishing pitch for strikeouts
+
+---
+
+## **Sinker**
+- Starts as a **4‑Seam Fastball**, then slows to normal fastball speed at the plate  
+- Effective when thrown off the plate and curved back in  
+- Opposite behavior of a **Slider**
+
+---
+
+## **Spitball**
+- Always results in a foul ball straight back to the catcher  
+- Can result in a **Foul Tip** if caught  
+- Pull Hitting on inside pitches reduces foul chance by **75%**  
+- Same for Opposite Field Hitting  
+- Nullifies all **Hard Hits**
 
 ---
 
@@ -205,7 +205,7 @@ Download: [All-StarBaseball](../files/All-StarBaseball.scx)
 
 # Hitting Zones
 
-## <details><summary><strong>ZONE 1 — Top Left</strong></summary>
+## ZONE 1 — Top Left
 
 **HR Chance:** 0%  
 **Hard‑Hit Chance:** 31% (Pull or Opposite‑field)
@@ -218,11 +218,10 @@ Download: [All-StarBaseball](../files/All-StarBaseball.scx)
 | o | o | o | o |
 | o | o | o | o |
 
-</details>
 
 ---
 
-## <details><summary><strong>ZONE 2 — Top Left Mid</strong></summary>
+## ZONE 2 — Top Left Mid
 
 **HR Chance:** 6%  
 **Hard‑Hit Chance:** 31% (Pull)
@@ -235,11 +234,10 @@ Download: [All-StarBaseball](../files/All-StarBaseball.scx)
 | o | o | o | o |
 | o | o | o | o |
 
-</details>
 
 ---
 
-## <details><summary><strong>ZONE 3 — Left Mid</strong></summary>
+## ZONE 3 — Left Mid
 
 **HR Chance:** 18%  
 **Hard‑Hit Chance:** 50% (Pull)
@@ -252,11 +250,10 @@ Download: [All-StarBaseball](../files/All-StarBaseball.scx)
 | o | o | o | o |
 | o | o | o | o |
 
-</details>
 
 ---
 
-## <details><summary><strong>ZONE 4 — Bottom Left Mid</strong></summary>
+## ZONE 4 — Bottom Left Mid
 
 **HR Chance:** 6%  
 **Hard‑Hit Chance:** 25% (Pull)
@@ -269,11 +266,10 @@ Download: [All-StarBaseball](../files/All-StarBaseball.scx)
 | **●** | o | o | o |
 | o | o | o | o |
 
-</details>
 
 ---
 
-## <details><summary><strong>ZONE 5 — Bottom Left</strong></summary>
+## ZONE 5 — Bottom Left
 
 **HR Chance:** 0%  
 **Hard‑Hit Chance:** 37% (Pull)
@@ -286,11 +282,10 @@ Download: [All-StarBaseball](../files/All-StarBaseball.scx)
 | o | o | o | o |
 | **●** | o | o | o |
 
-</details>
 
 ---
 
-## <details><summary><strong>ZONE 6 — Top Left Mid</strong></summary>
+## ZONE 6 — Top Left Mid
 
 **HR Chance:** 0%  
 **Hard‑Hit Chance:** 37% (Opposite‑field)
@@ -303,11 +298,10 @@ Download: [All-StarBaseball](../files/All-StarBaseball.scx)
 | o | o | o | o |
 | o | o | o | o |
 
-</details>
 
 ---
 
-## <details><summary><strong>ZONE 7 — Mid Left Center</strong></summary>
+## ZONE 7 — Mid Left Center
 
 **HR Chance:** 12%
 
@@ -319,11 +313,10 @@ Download: [All-StarBaseball](../files/All-StarBaseball.scx)
 | o | o | o | o |
 | o | o | o | o |
 
-</details>
 
 ---
 
-## <details><summary><strong>ZONE 8 — Mid Left Center</strong></summary>
+## ZONE 8 — Mid Left Center
 
 **HR Chance:** 50% (Dead Center)
 
@@ -335,11 +328,10 @@ Download: [All-StarBaseball](../files/All-StarBaseball.scx)
 | o | o | o | o |
 | o | o | o | o |
 
-</details>
 
 ---
 
-## <details><summary><strong>ZONE 9 — Bottom Left Center</strong></summary>
+## ZONE 9 — Bottom Left Center
 
 **HR Chance:** 12%
 
@@ -351,11 +343,10 @@ Download: [All-StarBaseball](../files/All-StarBaseball.scx)
 | o | **●** | o | o |
 | o | o | o | o |
 
-</details>
 
 ---
 
-## <details><summary><strong>ZONE 10 — Bottom Left Mid</strong></summary>
+## ZONE 10 — Bottom Left Mid
 
 **HR Chance:** 0%  
 **Hard‑Hit Chance:** 31% (Pull)
@@ -368,11 +359,10 @@ Download: [All-StarBaseball](../files/All-StarBaseball.scx)
 | o | o | o | o |
 | o | **●** | o | o |
 
-</details>
 
 ---
 
-## <details><summary><strong>ZONE 11 — Top Right Mid</strong></summary>
+## ZONE 11 — Top Right Mid
 
 **HR Chance:** 0%  
 **Hard‑Hit Chance:** 31% (Opposite‑field)
@@ -385,11 +375,10 @@ Download: [All-StarBaseball](../files/All-StarBaseball.scx)
 | o | o | o | o |
 | o | o | o | o |
 
-</details>
 
 ---
 
-## <details><summary><strong>ZONE 12 — Top Right Center</strong></summary>
+## ZONE 12 — Top Right Center
 
 **HR Chance:** 12%
 
@@ -401,11 +390,10 @@ Download: [All-StarBaseball](../files/All-StarBaseball.scx)
 | o | o | o | o |
 | o | o | o | o |
 
-</details>
 
 ---
 
-## <details><summary><strong>ZONE 13 — Mid Right Center</strong></summary>
+## ZONE 13 — Mid Right Center
 
 **HR Chance:** 50% (Dead Center)
 
@@ -417,11 +405,10 @@ Download: [All-StarBaseball](../files/All-StarBaseball.scx)
 | o | o | o | o |
 | o | o | o | o |
 
-</details>
 
 ---
 
-## <details><summary><strong>ZONE 14 — Bottom Right Center</strong></summary>
+## ZONE 14 — Bottom Right Center
 
 **HR Chance:** 12%
 
@@ -433,11 +420,10 @@ Download: [All-StarBaseball](../files/All-StarBaseball.scx)
 | o | o | **●** | o |
 | o | o | o | o |
 
-</details>
 
 ---
 
-## <details><summary><strong>ZONE 15 — Bottom Right Mid</strong></summary>
+## ZONE 15 — Bottom Right Mid
 
 **HR Chance:** 0%  
 **Hard‑Hit Chance:** 31% (Pull)
@@ -450,11 +436,10 @@ Download: [All-StarBaseball](../files/All-StarBaseball.scx)
 | o | o | o | o |
 | o | o | **●** | o |
 
-</details>
 
 ---
 
-## <details><summary><strong>ZONE 16 — Top Right</strong></summary>
+## ZONE 16 — Top Right
 
 **HR Chance:** 0%  
 **Hard‑Hit Chance:** 31% (Opposite‑field)
@@ -467,11 +452,10 @@ Download: [All-StarBaseball](../files/All-StarBaseball.scx)
 | o | o | o | o |
 | o | o | o | o |
 
-</details>
 
 ---
 
-## <details><summary><strong>ZONE 17 — Top Right Center</strong></summary>
+## ZONE 17 — Top Right Center
 
 **HR Chance:** 6%  
 **Hard‑Hit Chance:** 25% (Opposite‑field)
@@ -484,11 +468,10 @@ Download: [All-StarBaseball](../files/All-StarBaseball.scx)
 | o | o | o | o |
 | o | o | o | o |
 
-</details>
 
 ---
 
-## <details><summary><strong>ZONE 18 — Right Center</strong></summary>
+## ZONE 18 — Right Center
 
 **HR Chance:** 18%  
 **Hard‑Hit Chance:** 50% (Opposite‑field)
@@ -501,11 +484,10 @@ Download: [All-StarBaseball](../files/All-StarBaseball.scx)
 | o | o | o | o |
 | o | o | o | o |
 
-</details>
 
 ---
 
-## <details><summary><strong>ZONE 19 — Right Bottom Center</strong></summary>
+## ZONE 19 — Right Bottom Center
 
 **HR Chance:** 6%  
 **Hard‑Hit Chance:** 25% (Opposite‑field)
@@ -522,7 +504,7 @@ Download: [All-StarBaseball](../files/All-StarBaseball.scx)
 
 ---
 
-## <details><summary><strong>ZONE 20 — Bottom Right</strong></summary>
+## ZONE 20 — Bottom Right
 
 **HR Chance:** 0%  
 **Hard‑Hit Chance:** 25% (Opposite‑field or Pull)
@@ -535,7 +517,6 @@ Download: [All-StarBaseball](../files/All-StarBaseball.scx)
 | o | o | o | o |
 | o | o | o | **●** |
 
-</details>
 
 ---
 
