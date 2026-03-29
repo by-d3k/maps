@@ -1,6 +1,4 @@
-# StarCraft Maps 
-
-## A list of maps by d3k
+# by d3k
 
 ### Chronological
 
