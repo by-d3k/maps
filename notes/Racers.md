@@ -22,15 +22,15 @@
 ---
 
 ## ⌨️ **Controls**
-| Action | Key |
-|--------|------|
-| Shift Lanes Up/Left | **W / A** |
-| Shift Lanes Down/Right | **S / D** |
-| Speed Up | **Period (.)** |
-| Slow Down | **Question Mark (?)** |
-| Turn | **Shift** |
-| Jump Start / Hard Brake | **Comma (,)** |
-| Focus Mode | **N** |
+| Action | Key | Unload Unit |
+|--------|------|------|
+| Shift Lanes Up/Left | **W / A** | **Ghost** |
+| Shift Lanes Down/Right | **S / D** | **SCV** |
+| Speed Up | **Period (.)** | **Hero Zealot** |
+| Slow Down | **Question Mark (?)** | **Zealot** |
+| Turn | **Shift** | **Medic** |
+| Jump Start / Hard Brake | **Comma (,)** | **Marine** |
+| Focus Mode | **N** | **Build SCV at CC** |
 
 ---
 
