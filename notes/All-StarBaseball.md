@@ -13,6 +13,7 @@ Download: [All-StarBaseball](../files/All-StarBaseball.scx)
   * [Special Pitches](./All-StarBaseball.md#-special-pitches)
   * [Special Runner](./All-StarBaseball.md#-special-runner)
   * [Special Hitter](./All-StarBaseball.md#-special-hitter)
+  * [Htting Zones](./All-StarBaseball.md#zones)
   * [History](./All-StarBaseball.md#history)
 
 -----
@@ -201,6 +202,8 @@ Download: [All-StarBaseball](../files/All-StarBaseball.scx)
 - Opposing team is notified when set
 
 ---
+
+# Hitting Zones
 
 ## <details><summary><strong>ZONE 1 — Top Left</strong></summary>
 
