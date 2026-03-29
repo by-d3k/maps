@@ -4,10 +4,10 @@
 
 | Map Name | Last Modified |
 | :--- | :--- |
-| [All-Star Baseball](./notes/AllStarBaseball.md) | ??? |
+| [All-Star Baseball](./notes/All-StarBaseball.md) | ??? |
 | [Racers](./notes/Racers.md) | 4/1/24 |
 | [NFL Blitz 4v4](./notes/NFLBlitz.md) | 5/16/17 |
-| [Zelshiky Tribe](./notes/ZelshikyTribe.md) | 3/22/13 |
+| [Zelshiky Tribe](./notes/ZelshikyTribeRPG.md) | 3/22/13 |
 | [Overthrown Battlegrounds 2](./notes/OverthrownBattlegrounds2.md) | 6/19/12 |
 | [LeaP](./notes/LeaP.md) | 6/16/12 |
 | [Modern Castles](./notes/ModernCastles.md) | 9/30/10 |
