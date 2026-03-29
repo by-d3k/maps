@@ -8,7 +8,11 @@ Download: [All-StarBaseball](../files/All-StarBaseball.scx)
 
 ## Table of Contents
 
-  * [Features](./All-StarBaseball.md#features)
+  * [Features](./All-StarBaseball.md#-features)
+  * [Special Bats](./All-StarBaseball.md#-special-bats)
+  * [Special Pitches](./All-StarBaseball.md#-special-pitches)
+  * [Special Runner](./All-StarBaseball.md#-special-runner)
+  * [Special Hitter](./All-StarBaseball.md#-special-hitter)
   * [History](./All-StarBaseball.md#history)
 
 -----
