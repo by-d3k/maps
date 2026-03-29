@@ -8,7 +8,7 @@ Download: [ZTRPG](../files/ZTRPG(P).scx)
 
 ## Table of Contents
 
-  * [History](./ZelshikyTribeRPG.md#v116)
+  * [History](./ZelshikyTribeRPG.md#history)
   * [Story](./ZelshikyTribeRPG.md#story)
   * [Heroes](./ZelshikyTribeRPG.md#heroes)
   * [Abilities](./ZelshikyTribeRPG.md#abilities)
@@ -19,6 +19,8 @@ Download: [ZTRPG](../files/ZTRPG(P).scx)
   * [Dialogue](./ZelshikyTribeRPG.md#-story-dialogue)
 
 -----
+
+## History
 
 ## **v1.16**
 - Loads of bugs fixed, both small (class specific) and big (game breaking)
