@@ -22,4 +22,4 @@ Stay ahead of the stampede and make it to the finish line.
 - **Survive the chaos and reach the end** to win  
 
 ### **Inspiration**
-Plays similarly to **Oozing Blob**, with a focus on momentum, crowd navigation, and that constant pressure behind you.
+Plays similarly to [Oozing Blob](https://scmscx.com/map/yGVp35fq) by Millennium Army, with a focus on momentum, crowd navigation, and that constant pressure behind you.
