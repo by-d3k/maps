@@ -2,7 +2,7 @@
 
 -----
 
-Download: [All-StarBaseball.scx](../files/All-StarBaseball.scx)
+Download: [All-StarBaseball](../files/All-StarBaseball.scx)
 
 -----
 
