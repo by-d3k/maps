@@ -1,4 +1,4 @@
-# Zelshiky Tribe RPG (v1.15)
+# Zelshiky Tribe RPG (v1.16)
 
 -----
 
@@ -8,7 +8,7 @@ Download: [ZTRPG](../files/ZTRPG(P).scx)
 
 ## Table of Contents
 
-  * [Versions](./ZelshikyTribeRPG.md#versions)
+  * [Version History](./ZelshikyTribeRPG.md#versions)
   * [Story](./ZelshikyTribeRPG.md#story)
   * [Heroes](./ZelshikyTribeRPG.md#heroes)
   * [Abilities](./ZelshikyTribeRPG.md#abilities)
@@ -20,7 +20,7 @@ Download: [ZTRPG](../files/ZTRPG(P).scx)
 
 -----
 
-## Versions
+## Version History
 
 ## **v1.16**
 - Loads of bugs fixed, both small (class specific) and big (game breaking)
