@@ -202,6 +202,352 @@ Download: [All-StarBaseball](../files/All-StarBaseball.scx)
 
 ---
 
+## <details><summary><strong>ZONE 1 — Top Left</strong></summary>
+
+**HR Chance:** 0%  
+**Hard‑Hit Chance:** 31% (Pull or Opposite‑field)
+
+|   |   |   |   |
+|---|---|---|---|
+| **●** | o | o | o |
+| o | o | o | o |
+| o | o | o | o |
+| o | o | o | o |
+| o | o | o | o |
+
+</details>
+
+---
+
+## <details><summary><strong>ZONE 2 — Top Left Mid</strong></summary>
+
+**HR Chance:** 6%  
+**Hard‑Hit Chance:** 31% (Pull)
+
+|   |   |   |   |
+|---|---|---|---|
+| o | o | o | o |
+| **●** | o | o | o |
+| o | o | o | o |
+| o | o | o | o |
+| o | o | o | o |
+
+</details>
+
+---
+
+## <details><summary><strong>ZONE 3 — Left Mid</strong></summary>
+
+**HR Chance:** 18%  
+**Hard‑Hit Chance:** 50% (Pull)
+
+|   |   |   |   |
+|---|---|---|---|
+| o | o | o | o |
+| o | o | o | o |
+| **●** | o | o | o |
+| o | o | o | o |
+| o | o | o | o |
+
+</details>
+
+---
+
+## <details><summary><strong>ZONE 4 — Bottom Left Mid</strong></summary>
+
+**HR Chance:** 6%  
+**Hard‑Hit Chance:** 25% (Pull)
+
+|   |   |   |   |
+|---|---|---|---|
+| o | o | o | o |
+| o | o | o | o |
+| o | o | o | o |
+| **●** | o | o | o |
+| o | o | o | o |
+
+</details>
+
+---
+
+## <details><summary><strong>ZONE 5 — Bottom Left</strong></summary>
+
+**HR Chance:** 0%  
+**Hard‑Hit Chance:** 37% (Pull)
+
+|   |   |   |   |
+|---|---|---|---|
+| o | o | o | o |
+| o | o | o | o |
+| o | o | o | o |
+| o | o | o | o |
+| **●** | o | o | o |
+
+</details>
+
+---
+
+# **COLUMN 2 — Zones 6–10**
+
+---
+
+## <details><summary><strong>ZONE 6 — Top of Column 2</strong></summary>
+
+**HR Chance:** 0%  
+**Hard‑Hit Chance:** 37% (Opposite‑field)
+
+|   |   |   |   |
+|---|---|---|---|
+| o | **●** | o | o |
+| o | o | o | o |
+| o | o | o | o |
+| o | o | o | o |
+| o | o | o | o |
+
+</details>
+
+---
+
+## <details><summary><strong>ZONE 7 — Row 2, Column 2</strong></summary>
+
+**HR Chance:** 12%
+
+|   |   |   |   |
+|---|---|---|---|
+| o | o | o | o |
+| o | **●** | o | o |
+| o | o | o | o |
+| o | o | o | o |
+| o | o | o | o |
+
+</details>
+
+---
+
+## <details><summary><strong>ZONE 8 — Row 3, Column 2</strong></summary>
+
+**HR Chance:** 50% (Dead Center)
+
+|   |   |   |   |
+|---|---|---|---|
+| o | o | o | o |
+| o | o | o | o |
+| o | **●** | o | o |
+| o | o | o | o |
+| o | o | o | o |
+
+</details>
+
+---
+
+## <details><summary><strong>ZONE 9 — Row 4, Column 2</strong></summary>
+
+**HR Chance:** 12%
+
+|   |   |   |   |
+|---|---|---|---|
+| o | o | o | o |
+| o | o | o | o |
+| o | o | o | o |
+| o | **●** | o | o |
+| o | o | o | o |
+
+</details>
+
+---
+
+## <details><summary><strong>ZONE 10 — Row 5, Column 2</strong></summary>
+
+**HR Chance:** 0%  
+**Hard‑Hit Chance:** 31% (Pull)
+
+|   |   |   |   |
+|---|---|---|---|
+| o | o | o | o |
+| o | o | o | o |
+| o | o | o | o |
+| o | o | o | o |
+| o | **●** | o | o |
+
+</details>
+
+---
+
+# **COLUMN 3 — Zones 11–15 (Already Correct)**
+
+---
+
+## <details><summary><strong>ZONE 11 — Top of Column 3</strong></summary>
+
+**HR Chance:** 0%  
+**Hard‑Hit Chance:** 31% (Opposite‑field)
+
+|   |   |   |   |
+|---|---|---|---|
+| o | o | **●** | o |
+| o | o | o | o |
+| o | o | o | o |
+| o | o | o | o |
+| o | o | o | o |
+
+</details>
+
+---
+
+## <details><summary><strong>ZONE 12 — Row 2, Column 3</strong></summary>
+
+**HR Chance:** 12%
+
+|   |   |   |   |
+|---|---|---|---|
+| o | o | o | o |
+| o | o | **●** | o |
+| o | o | o | o |
+| o | o | o | o |
+| o | o | o | o |
+
+</details>
+
+---
+
+## <details><summary><strong>ZONE 13 — Row 3, Column 3</strong></summary>
+
+**HR Chance:** 50% (Dead Center)
+
+|   |   |   |   |
+|---|---|---|---|
+| o | o | o | o |
+| o | o | o | o |
+| o | o | **●** | o |
+| o | o | o | o |
+| o | o | o | o |
+
+</details>
+
+---
+
+## <details><summary><strong>ZONE 14 — Row 4, Column 3</strong></summary>
+
+**HR Chance:** 12%
+
+|   |   |   |   |
+|---|---|---|---|
+| o | o | o | o |
+| o | o | o | o |
+| o | o | o | o |
+| o | o | **●** | o |
+| o | o | o | o |
+
+</details>
+
+---
+
+## <details><summary><strong>ZONE 15 — Row 5, Column 3</strong></summary>
+
+**HR Chance:** 0%  
+**Hard‑Hit Chance:** 31% (Pull)
+
+|   |   |   |   |
+|---|---|---|---|
+| o | o | o | o |
+| o | o | o | o |
+| o | o | o | o |
+| o | o | o | o |
+| o | o | **●** | o |
+
+</details>
+
+---
+
+# **COLUMN 4 — Zones 16–20 (Shifted to Last Column)**
+
+---
+
+## <details><summary><strong>ZONE 16 — Top Right</strong></summary>
+
+**HR Chance:** 0%  
+**Hard‑Hit Chance:** 31% (Opposite‑field)
+
+|   |   |   |   |
+|---|---|---|---|
+| o | o | o | **●** |
+| o | o | o | o |
+| o | o | o | o |
+| o | o | o | o |
+| o | o | o | o |
+
+</details>
+
+---
+
+## <details><summary><strong>ZONE 17 — Row 2, Column 4</strong></summary>
+
+**HR Chance:** 6%  
+**Hard‑Hit Chance:** 25% (Opposite‑field)
+
+|   |   |   |   |
+|---|---|---|---|
+| o | o | o | o |
+| o | o | o | **●** |
+| o | o | o | o |
+| o | o | o | o |
+| o | o | o | o |
+
+</details>
+
+---
+
+## <details><summary><strong>ZONE 18 — Row 3, Column 4</strong></summary>
+
+**HR Chance:** 18%  
+**Hard‑Hit Chance:** 50% (Opposite‑field)
+
+|   |   |   |   |
+|---|---|---|---|
+| o | o | o | o |
+| o | o | o | o |
+| o | o | o | **●** |
+| o | o | o | o |
+| o | o | o | o |
+
+</details>
+
+---
+
+## <details><summary><strong>ZONE 19 — Row 4, Column 4</strong></summary>
+
+**HR Chance:** 6%  
+**Hard‑Hit Chance:** 25% (Opposite‑field)
+
+|   |   |   |   |
+|---|---|---|---|
+| o | o | o | o |
+| o | o | o | o |
+| o | o | o | o |
+| o | o | o | **●** |
+| o | o | o | o |
+
+</details>
+
+---
+
+## <details><summary><strong>ZONE 20 — Row 5, Column 4</strong></summary>
+
+**HR Chance:** 0%  
+**Hard‑Hit Chance:** 25% (Opposite‑field or Pull)
+
+|   |   |   |   |
+|---|---|---|---|
+| o | o | o | o |
+| o | o | o | o |
+| o | o | o | o |
+| o | o | o | o |
+| o | o | o | **●** |
+
+</details>
+
+---
+
 ## History
 
 ## **v1.26**
