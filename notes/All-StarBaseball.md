@@ -8,13 +8,13 @@ Download: [All-StarBaseball](../files/All-StarBaseball.scx)
 
 ## Table of Contents
 
+  * [Features](./All-StarBaseball.md#features)
   * [History](./All-StarBaseball.md#history)
 
 -----
 
-# ⚾ Game Features & Special Mechanics
+# ⚾ Features
 
-## 🆕 Core Features
 - Fouls  
 - Intentional bunting  
 - Stealing *(after pitch)*  
