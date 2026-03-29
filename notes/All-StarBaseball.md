@@ -41,6 +41,47 @@ Download: [All-StarBaseball](../files/All-StarBaseball.scx)
 
 ---
 
+# **Batting Tips**
+- Swing (Siege) when the ball is over the plate  
+- You will hit better if you swing when the ball is closer to the middle of the plate  
+- Moving your batter **UP** aims hits to the right, **DOWN** aims left, **FORWARD** bunts  
+- Getting hits and advancing bases can earn you **Special Bats**  
+- Hitting the ball far can earn you a **Pinch Hitter**
+
+---
+
+# **Pitching Tips**
+- Pitch (Siege) when your catcher is ready  
+- If a runner is leading, perform a pickoff by moving your pitcher toward the base  
+- Throw strikes and get strikeouts to earn **Special Pitches**
+
+---
+
+# **Catching Tips**
+- Manipulate a pitched ball’s movement by moving your catcher  
+- Aim the ball over the edges of the plate to make it harder to hit  
+- If a runner is stealing, use **Quick Throwing** (Dropship) to try to get him out  
+- The 3 points in front of your catcher represent the 3 bases
+
+---
+
+# **Fielding Tips**
+- Move the **Ball** (Scourge) to throw it  
+- Use **Quick Throwing** (Dropship) to throw faster  
+- A quickly thrown ball loses speed after 4 seconds  
+- Time the throw correctly to make it go farther (when gas is 15)  
+- If a hit ball has a blood trail, it’s about to drop and can be caught
+
+---
+
+# **Runner Tips**
+- Lead by moving off the plate during a pitch — this makes stealing easier  
+- Watch out for pickoffs — be ready to return to the base quickly  
+- Use the **Dropship** to slide to a base if the play is close  
+- Steal bases successfully to earn a **Pinch Runner**
+
+---
+
 # 🪓 Special Bats
 
 ## **Rubber Bat**
