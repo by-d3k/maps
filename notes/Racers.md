@@ -13,6 +13,7 @@ Download (singleplayer): [Racers](../files/Racers(E).scx)
   * [Guide](./Racers.md#-guide)
   * [Controls](./Racers.md#%EF%B8%8F-controls)
   * [Random Tips](./Racers.md#-random-tips)
+  * [History](./Racers.md#history)
 
 -----
 
