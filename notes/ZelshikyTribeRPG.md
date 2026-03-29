@@ -1,8 +1,26 @@
 # Zelshiky Tribe RPG (v1.15)
 
 -----
+
 Download: [ZTRPG](../files/ZTRPG(P).scx)
+
 -----
+
+## Table of Contents
+
+  * [Versions](./ZelshikyTribeRPG.md#versions)
+  * [Story](./ZelshikyTribeRPG.md#story)
+  * [Heroes](./ZelshikyTribeRPG.md#heroes)
+  * [Abilities](./ZelshikyTribeRPG.md#abilities)
+  * [Quests](./ZelshikyTribeRPG.md#quests)
+  * [Items](./ZelshikyTribeRPG.md#items)
+  * [Energy](./ZelshikyTribeRPG.md#energy)
+  * [Buildings & Shops](./ZelshikyTribeRPG.md#buildings--shops)
+  * [Dialogue](./ZelshikyTribeRPG.md#-story-dialogue)
+
+-----
+
+## Versions
 
 ## **v1.16**
 - Loads of bugs fixed, both small (class specific) and big (game breaking)
@@ -57,19 +75,6 @@ Download: [ZTRPG](../files/ZTRPG(P).scx)
 - Added an item called Scroll of Telepathy
 - Added Secret Chests
 - Fixed a bug where Soul Catcher would screw up a player's inventory
-
------
-
-## Table of Contents
-
-  * [Story](./ZelshikyTribeRPG.md#story)
-  * [Heroes](./ZelshikyTribeRPG.md#heroes)
-  * [Abilities](./ZelshikyTribeRPG.md#abilities)
-  * [Quests](./ZelshikyTribeRPG.md#quests)
-  * [Items](./ZelshikyTribeRPG.md#items)
-  * [Energy](./ZelshikyTribeRPG.md#energy)
-  * [Buildings & Shops](./ZelshikyTribeRPG.md#buildings--shops)
-  * [Dialogue](./ZelshikyTribeRPG.md#-story-dialogue)
 
 -----
 
