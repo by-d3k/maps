@@ -8,11 +8,7 @@ Download: [All-StarBaseball](../files/All-StarBaseball.scx)
 
 ## Table of Contents
 
-  * [Batting Tips](./All-StarBaseball.md#batting-tips)
-  * [Pitching Tips](./All-StarBaseball.md#pitching-tips)
-  * [Catching Tips](./All-StarBaseball.md#catching-tips)
-  * [Fielding Tips](./All-StarBaseball.md#fielding-tips)
-  * [Running Tips](./All-StarBaseball.md#running-tips)
+  * [Tips](./All-StarBaseball.md#tips)
   * [Special Bats](./All-StarBaseball.md#-special-bats)
   * [Special Pitches](./All-StarBaseball.md#-special-pitches)
   * [Special Runner](./All-StarBaseball.md#-special-runner)
@@ -45,7 +41,9 @@ Download: [All-StarBaseball](../files/All-StarBaseball.scx)
 
 ---
 
-# **Batting Tips**
+# Tips
+
+## **Batting**
 - Swing (Siege) when the ball is over the plate  
 - You will hit better if you swing when the ball is closer to the middle of the plate  
 - Moving your batter **UP** aims hits to the right, **DOWN** aims left, **FORWARD** bunts  
@@ -54,14 +52,14 @@ Download: [All-StarBaseball](../files/All-StarBaseball.scx)
 
 ---
 
-# **Pitching Tips**
+## **Pitching**
 - Pitch (Siege) when your catcher is ready  
 - If a runner is leading, perform a pickoff by moving your pitcher toward the base  
 - Throw strikes and get strikeouts to earn **Special Pitches**
 
 ---
 
-# **Catching Tips**
+## **Catching**
 - Manipulate a pitched ball’s movement by moving your catcher  
 - Aim the ball over the edges of the plate to make it harder to hit  
 - If a runner is stealing, use **Quick Throwing** (Dropship) to try to get him out  
@@ -69,7 +67,7 @@ Download: [All-StarBaseball](../files/All-StarBaseball.scx)
 
 ---
 
-# **Fielding Tips**
+## **Fielding**
 - Move the **Ball** (Scourge) to throw it  
 - Use **Quick Throwing** (Dropship) to throw faster  
 - A quickly thrown ball loses speed after 4 seconds  
@@ -78,7 +76,7 @@ Download: [All-StarBaseball](../files/All-StarBaseball.scx)
 
 ---
 
-# **Running Tips**
+## **Running**
 - Lead by moving off the plate during a pitch — this makes stealing easier  
 - Watch out for pickoffs — be ready to return to the base quickly  
 - Use the **Dropship** to slide to a base if the play is close  
