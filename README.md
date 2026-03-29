@@ -1,6 +1,4 @@
-# by d3k
-
-### Map Archive: Table of Contents
+# Made by d3k
 
 | Map Name | Last Modified |
 | :--- | :--- |
