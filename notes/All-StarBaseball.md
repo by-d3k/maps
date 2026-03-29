@@ -8,11 +8,11 @@ Download: [All-StarBaseball](../files/All-StarBaseball.scx)
 
 ## Table of Contents
 
-  * [Features](./All-StarBaseball.md#batting-tips)
-  * [Features](./All-StarBaseball.md#pitching-tips)
-  * [Features](./All-StarBaseball.md#catching-tips)
-  * [Features](./All-StarBaseball.md#fielding-tips)
-  * [Features](./All-StarBaseball.md#running-tips)
+  * [Batting Tips](./All-StarBaseball.md#batting-tips)
+  * [Pitching Tips](./All-StarBaseball.md#pitching-tips)
+  * [Catching Tips](./All-StarBaseball.md#catching-tips)
+  * [Fielding Tips](./All-StarBaseball.md#fielding-tips)
+  * [Running Tips](./All-StarBaseball.md#running-tips)
   * [Special Bats](./All-StarBaseball.md#-special-bats)
   * [Special Pitches](./All-StarBaseball.md#-special-pitches)
   * [Special Runner](./All-StarBaseball.md#-special-runner)
