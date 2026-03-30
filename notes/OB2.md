@@ -77,3 +77,15 @@ Promotions are earned automatically as you reach specific kill counts. Each prom
 ## Inspiration
 
 In large part, the ideas for this map and its predecessor came from [Battlefield 2](https://en.wikipedia.org/wiki/Battlefield_2). 
+
+---
+
+## History
+
+- More Strafing Jets spawn if the enemy has 3 or less bases
+- Fixed a bug that allowed a player to own multiple Squad Resets
+- Fixed a bug that set minerals to 100 instead of adding them upon promotion
+- The last enemy base now heals its Generators every 1.5 seconds
+- Corrected a trigger that was supposed to reset shields for enemy Generators
+- Fast Respawn now drains more gold over time
+- Added an option for giving gold to ally players
