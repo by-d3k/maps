@@ -10,14 +10,15 @@ Download: [NFL Blitz 4v4](../files/NFL%20Blitz%20%5B4v4%5D.scx)
 
 * **Timed Games:** Includes a functional Game Clock with **4 Quarters**, **Overtime**, and **Timeouts**.
 
-* **Dynamic Roles:** Ability to switch between player types at any time during the game.
+* **Dynamic Roles:** Ability to switch between player types at any time during the game. Wide Receiver can also switch to a different role after the hike.
 
 * **New Positions:** Added **Tight End**, **Offensive Guard**, and **Linebacker**.
 
 * **Precision Passing:** Added a second functional targeting Wraith and a **Bullet Pass** mechanic.
 
-* **Advanced Mechanics:**
-    * Blocking systems.
+* **Blocking:** Players on offensive can now block, and some positions can **Hard Block** others, which means the blocked player can't always spam click.
+
+* **Other Additions:**
     * Out-of-bounds detection.
     * Two-point conversions.
  
@@ -31,6 +32,10 @@ Download: [NFL Blitz 4v4](../files/NFL%20Blitz%20%5B4v4%5D.scx)
 | :--- | :--- | :---: | :---: | :--- |
 | **Corsair** | Tight End | 4 | 6 | RB, WR, QB |
 | **Queen** | Linebacker | 3 | 7 | TE, RB, WR, QB |
+| **Devourer** | Offensive Guard | 3 | 8 | LB, TE, RB, WR, QB |
+| **Scout** | Running Back | 5 | 5 | None |
+| **Mutalisk** | Wide Receiver | 7 | 4 | None |
+| **Shuttle** | Quarterback | 4 | 3 | None |
 
 -----
 
