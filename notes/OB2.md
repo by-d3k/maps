@@ -6,6 +6,18 @@ Download: [OB2](../files/OB2.scm)
 
 -----
 
+## Table of Contents
+
+  * [Objectives](./OB2.md#-objectives)
+  * [Important Hotkeys](./OB2.md#-features)
+  * [Abilities](./OB2.md#tips)
+  * [Promotions](./OB2.md#-special-bats)
+  * [Mechanics](./OB2.md#-special-pitches)
+  * [Inspiration](./OB2.md#-special-runner)
+  * [History](./OB2.md#-special-hitter)
+
+-----
+
 ## 🎯 Objectives
 
 * **Capture:** Assist allies in capturing all enemy bases.
