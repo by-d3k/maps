@@ -41,6 +41,7 @@ Download (singleplayer): [Racers](../files/Racers(E)-1p.scx)
 ---
 
 ## ⌨️ **Controls**
+
 | Action | Key | Unload Unit |
 |--------|------|------|
 | Shift Lanes Up/Left | **W / A** | **Ghost** |
