@@ -14,7 +14,7 @@ Download (singleplayer): [Racers](../files/Racers(E)-1p.scx)
   * [Controls](./Racers.md#%EF%B8%8F-controls)
   * [Game Modes](./Racers.md#-game-modes)
   * [Random Tips](./Racers.md#-random-tips)
-  * [Gameplay](./Racers.md#gameplay)
+  * [Gameplay](./Racers.md#-gameplay)
   * [History](./Racers.md#history)
 
 -----
@@ -133,13 +133,13 @@ Next time, adjust by starting earlier or taking a wider angle.
 
 ---
 
-## 📼 Gameplay
+## 📼 **Gameplay**
 
 Video: [StarCraft Custom Maps: Racers](https://www.youtube.com/watch?v=wv02g00qX94)
 
 ---
 
-## History
+## **History**
 
 ## **v1.26**
 - Loads of bugs fixed
