@@ -25,6 +25,15 @@ Download: [NFL Blitz 4v4](../files/NFL%20Blitz%20%5B4v4%5D.scx)
 
 -----
 
+## Positions
+
+| Unit Type | Role | Catch Radius | Tackle / Block | Hard Blocks Against |
+| :--- | :--- | :---: | :---: | :--- |
+| **Corsair** | Tight End | 4 | 6 | RB, WR, QB |
+| **Queen** | Linebacker | 3 | 7 | TE, RB, WR, QB |
+
+-----
+
 ## Inspiration
 
 Mostly the same as the original [NFL Blitz](https://scmscx.com/map/43c4d8VB) map by ShadowRune and Koltz. The original was 3v3 - this one was redesigned from the ground up as 4v4. 
