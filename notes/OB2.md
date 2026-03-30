@@ -20,10 +20,9 @@ Download: [OB2](../files/OB2.scm)
 
 ## 🎯 Objectives
 
-* **Capture:** Assist allies in capturing all enemy bases.
-* **Defend:** Protect allied bases to maintain control.
-* **Evolve:** Grow your squad to its maximum potential.
-* **Protect:** Keep your **Lieutenant** alive at all costs.
+Assist allied forces in capturing all 14 bases. The more bases you control, the more desperate and powerful the enemy force will become. Grow your forces, and be prepared to throw everything you've got to capture the final few bases.
+
+Keep your **Lieutenant** alive at all costs.
 
 -----
 
