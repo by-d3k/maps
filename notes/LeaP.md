@@ -65,14 +65,14 @@ The difficulty in **LeaP** scales by reducing your **Leap Range** and swapping s
 
 ## History
 
-## **v1.06**
+### **v1.06**
 - Bug fixes
 - Level difficulty adjusted
 
-## **v1.05**
+### **v1.05**
 - Bug fixes
 
-## **v1.04**
+### **v1.04**
 - Possible fix to Player 8's buggy leaping
 - Added 5 more levels
 - Added Sinkers
