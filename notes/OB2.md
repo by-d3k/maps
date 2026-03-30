@@ -40,8 +40,6 @@ Defend your own bases. Keep your **Lieutenant** alive.
 
 ## Abilities
 
-You can trigger these abilities using your **Hero Overlord** or **Standard Overlord** hotkey menus. Each ability provides a unique tactical advantage on the battlefield.
-
 * **Sweeper Droid:** Deploys a specialized unit to effectively mind control enemy units.
 
 * **Artillery Barrage:** Enables a targeting system to rain fire on a specific location.
@@ -93,9 +91,7 @@ In large part, the ideas for this map and its predecessor came from [Battlefield
 
 ## History
 
-### **v1.26**
-- Pinch Hitters can no longer use Special Bats that were set before the switch
-- Special Bats should no longer be cancelled out by natural hard hits
+### **v1.10**
 - More Strafing Jets spawn if the enemy has 3 or less bases
 - Fixed a bug that allowed a player to own multiple Squad Resets
 - Fixed a bug that set minerals to 100 instead of adding them upon promotion
