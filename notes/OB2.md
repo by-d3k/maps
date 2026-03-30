@@ -22,7 +22,7 @@ Download: [OB2](../files/OB2.scm)
 
 Assist allied forces in capturing all **14 bases**. The more bases you control, the more desperate and powerful the enemy force will become. Grow your forces, and be prepared to throw everything you've got to capture the final few bases.
 
-Keep your **Lieutenant** alive at all costs.
+Defend your own bases. Keep your **Lieutenant** alive.
 
 -----
 
