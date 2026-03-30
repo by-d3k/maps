@@ -28,7 +28,7 @@ Download: [NFL Blitz 4v4](../files/NFL%20Blitz%20%5B4v4%5D.scx)
 
 ## Positions
 
-| Unit Type | Role | Catch Radius | Tackle / Block | Hard Blocks Against |
+| Unit Type | Role | Catch Radius | Tackle / Block | Hard Blocks |
 | :--- | :--- | :---: | :---: | :--- |
 | **Corsair** | Tight End | 4 | 6 | RB, WR, QB |
 | **Queen** | Linebacker | 3 | 7 | TE, RB, WR, QB |
