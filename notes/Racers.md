@@ -13,8 +13,8 @@ Download (singleplayer): [Racers](../files/Racers(E)-1p.scx)
   * [Guide](./Racers.md#-guide)
   * [Controls](./Racers.md#%EF%B8%8F-controls)
   * [Game Modes](./Racers.md#-game-modes)
-  * [Random Tips](./Racers.md#-random-tips)
   * [Gameplay](./Racers.md#-gameplay)
+  * [Random Tips](./Racers.md#-random-tips)
   * [History](./Racers.md#history)
 
 -----
@@ -78,6 +78,12 @@ Best time wins. Or choose to eliminate the worst time each round.
 
 ---
 
+## 📼 **Gameplay**
+
+Video: [StarCraft Custom Maps: Racers](https://www.youtube.com/watch?v=wv02g00qX94)
+
+---
+
 ## 💡 **Random Tips**
 
 ### **Tip #1**  
@@ -130,12 +136,6 @@ Then release at the right moment — reduces misclicks and improves reaction tim
 ### **Tip #15**  
 Seeing **lurker blood** after a crash means you were close to a successful turn.  
 Next time, adjust by starting earlier or taking a wider angle.
-
----
-
-## 📼 **Gameplay**
-
-Video: [StarCraft Custom Maps: Racers](https://www.youtube.com/watch?v=wv02g00qX94)
 
 ---
 
