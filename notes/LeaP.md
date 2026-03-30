@@ -28,3 +28,15 @@ To survive, you must land your leap on a **Safe Pad**. These are represented by 
 
 ## History
 
+## **v1.06**
+- Bug fixes
+- Level difficulty adjusted
+
+## **v1.05**
+- Bug fixes
+
+## **v1.04**
+- Possible fix to Player 8's buggy leaping
+- Added 5 more levels
+- Added Sinkers
+- Lives are now awarded correctly 
