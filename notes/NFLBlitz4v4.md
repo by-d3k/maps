@@ -9,14 +9,19 @@ Download: [NFL Blitz 4v4](../files/NFL%20Blitz%20%5B4v4%5D.scx)
 ## ✨ Features
 
 * **Timed Games:** Includes a functional Game Clock with **4 Quarters**, **Overtime**, and **Timeouts**.
+
 * **Dynamic Roles:** Ability to switch between player types at any time during the game.
+
 * **New Positions:** Added **Tight End**, **Offensive Guard**, and **Linebacker**.
+
 * **Precision Passing:** Added a second functional targeting Wraith and a **Bullet Pass** mechanic.
+
 * **Advanced Mechanics:**
     * Blocking systems.
     * Out-of-bounds detection.
     * Two-point conversions.
-* **End-Game Analytics:** More extensive stats displayed at the conclusion of every match.
+ 
+* **End-Game Analytics:** More extensive stats displayed at the conclusion of every match (like passing yards, receiving yards, etc).
 
 -----
 
