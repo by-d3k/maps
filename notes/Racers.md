@@ -63,7 +63,7 @@ The racer in **last place each lap is eliminated** until only one remains.
 
 ### **Practice**
 A free‑form mode where you can **drive, experiment, and test mechanics**.  
-The first practice provides a interactive **Tutorial**. Exit practice at the **top‑right** of the map.
+The first practice provides an interactive **Tutorial**. Exit practice at the **top‑right** of the map.
 
 ---
 
