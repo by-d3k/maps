@@ -37,39 +37,39 @@ The maximum tax gain after the timer is capped at **504**.
 
 **Town Hall (Command Center)**
 The first and most important structure to build when in a Castle. Creating a Town Hall officially gives you the Castle, allows you to continue building within it, and unlocks its features.
-* **Max Per Castle:** 1
+* Max Per Castle: 1
 
 **Barracks**
 Allows you to train infantry units used to protect your Castle or capture others. To build infantry, you must first recruit civilians from your town by moving them onto the recruit beacon.
-* **Max Per Castle:** Unlimited
+* Max Per Castle: Unlimited
 
 **House (Supply Depot)**
 Brings civilians to your town and will continue to generate them if your Castle has fewer than 60. As your civilian population increases, so does your income from tax. Civilians provide tax whether they are inside or outside the Castle walls.
-* **Max Per Castle:** 5
+* Max Per Castle: 5
 
 **Special Training Facility (Factory)**
 Allows the production of special units with unique abilities that are useful in battle. Training civilians to use these abilities requires a significant amount of money.
-* **Max Per Castle:** Unlimited
+* Max Per Castle: Unlimited
 
 **Bunker**
 Vital for survival and acts as a strong defensive tool. These can hold off many enemies for a significant amount of time.
-* **Max Per Castle:** 4
+* Max Per Castle: 4
 
 **Wonder (Starport)**
 Attracts more civilians to your town. This is important for maintaining a strong population; however, if there are 60 or more men in your Castle, no more civilians will arrive at the town portal.
-* **Max Per Castle:** 2
+* Max Per Castle: 2
 
 **Alliance Communicator (Missile Turret)**
 Communication devices that signal to allies that you are at war and need recruits. You gain 1 recruit point per timer for each communicator you own. These are vital when you are low on tax and cannot afford to recruit villagers.
-* **Max Per Castle:** 1
+* Max Per Castle: 1
 
 **Suppressor (Science Facility)**
 When activated, your Castle is protected by an energy shield. This repels any enemies outside the Castle walls for a period of time. This is a crucial defense against impending attacks.
-* **Max Per Castle:** 1
+* Max Per Castle: 1
 
 **Teleporter (Tank)**
 Used to transport troops anywhere on the map. To activate, set up two teleporters, move units near one, and put both tanks into Siege Mode. This is useful for quick escapes or reaching battles faster.
-* **Max Per Castle:** Unlimited
+* Max Per Castle: Unlimited
 
 -----
 
