@@ -10,7 +10,7 @@ Download: [Man Hunt 2](../files/Man%20Hunt%202.scx)
 
 A sequel to the original [Man Hunt](./notes/ManHunt.md). As a **Hunter**, you must look for suspicious activity in a crowded city environment. A criminal element hides amongst the civilian masses.
 
-Eliminate all threats before your score reaches zero.
+You start with 1000 points. Eliminate all threats before your score reaches zero.
 
 -----
 
@@ -41,4 +41,4 @@ Various landmarks around the map will notify Hunters of suspicious activity in t
 
 ## Surveillance
 
-Hunters are specialized in finding threats. Use your **Vehicle**, **Dog**, and **Officer** to "spot" the enemy before it's too late.
+Hunters are specialized in finding threats. Use your **Mobile Scanner**, **Car**, **Dog**, and **Detective** to "spot" the enemy before it's too late.
