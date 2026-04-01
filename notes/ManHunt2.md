@@ -17,8 +17,11 @@ Eliminate all threats before your score reaches zero.
 ## Threats
 
 * **Terrorist**: A high-value target. Their primary goal is to reach one of many airports around the map. Reaching any of the five airport locations subtracts **50 points**.
+
 * **Suicide Bomber**: These blow themselves up periodically. Catch them, otherwise more will spawn. Detonating near people subtracts **6 points per person** killed in the blast.
+
 * **Drug Dealer**: Although somewhat harmless to begin with, these threats spread their substance amongst the crowd and influence other normal civilians to become drug dealers too. Each conversion subtracts **1 point**.
+
 * **Serial Killer**: A dangerous threat that can lose you a lot of points if not dealt with. Each succesful murder subtracts **8 points**.
 
 -----
