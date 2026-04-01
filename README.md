@@ -21,7 +21,7 @@
 | [Revenge of the Booga](./notes/RevengeOfTheBooga.md) | 2/28/10 |
 | [Bowser Party](./notes/BowserParty.md) | 7/11/09 |
 | [Escape from Prison 4](./notes/EscapeFromPrison4.md) | 12/8/08 |
-| [Doodle Obstacles 1 & 2](./notes/DoodleObstacles1%262.md) | 11/26/08 |
+| [Doodle Obstacles 1 & 2](./notes/DoodleObstacles.md) | 11/26/08 |
 | [Capricious Bound](./notes/CapriciousBound.md) | 8/20/08 |
 | [MoP Quiz](./notes/MoPQuiz.md) | 8/13/08 |
 | [Feeling Lucky?](./notes/FeelingLucky%3F.md) | 1/14/08 |
