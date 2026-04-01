@@ -2,7 +2,7 @@
 
 -----
 
-Download: [MoP Quiz](../files/MoP%20Quiz.scx)
+Download: [MoP Quiz](../files/MoP%20Quiz.scm)
 
 -----
 
