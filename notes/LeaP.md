@@ -42,7 +42,7 @@ You can also die from one of a few dangerous element:
 
 ## 📈 Levels
 
-The difficulty in **LeaP** scales by reducing your **Leap Range** and swapping stable **Safe Pads** for more dangerous ones like **Flimsy Floaters** and **Droppers**.
+The difficulty in **LeaP** scales by reducing your **Leap Range** and swapping stable **Safe Pads** for more dangerous pads like **Flimsy Floaters** and **Droppers**.
 
 | Level | Leap Range | Safe Pads | Floaters | Flimsy Floaters | Droppers | Sinkers | Draggers | Whirlers | Rocks |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
