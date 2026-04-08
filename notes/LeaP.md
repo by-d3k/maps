@@ -14,16 +14,29 @@ Download: [LeaP](../files/LeaP.scx)
 -----
 
 ## 🛡️ Safe Pads
-To survive, you must land your leap on a **Safe Pad** or other floating device:
-* **Safe Pads (Guardians)**: These are the safest and most reliable. They move, but they're slow.
-* **Floaters (Overlords)**: These dissappear after 2-3 seconds. Quickly find another to jump to after landing.
-* **Sinkers (Carriers)**: Like floaters, but they dissappear within a second. They also have faster movement. 
-* **Dragger (Devourers)**: These can take you far, but you have no control. You regain control if you cross another pad.
+
+To survive, you must land your leap on a pad like a **Safe Pad**:
+
+* **Safe Pads**: These are the safest and most reliable. They move, but they're slow.
+* **Floaters**: These dissappear after 3-4 seconds. Quickly find another to jump to after landing.
+* **Flimsy Floaters**: A more unstable pad. These dissappear after 2-3 seconds.
+* **Droppers**: Like floaters, but they dissappear within a second. They also have faster movement. 
+* **Dragger**: These pull you along their path, but you have no control. You regain control if you cross another pad.
 
 > **You will die if:**
 > 1. You run out of **Leap Range**.
 > 2. You go **Out of Bounds**.
 > 3. You land anywhere that is **NOT** a Safe Pad.
+
+-----
+
+## Hazards
+
+You can also die from one of a few dangerous element:
+
+* **Sinkers**: These explode on contact.
+* **Rocks**: When these spawn, they fall from the top of the map every few seconds.
+* **Whirlers**: An obstacle that also affects the movement of other pads.
 
 ---
 
@@ -49,23 +62,17 @@ The difficulty in **LeaP** scales by reducing your **Leap Range** and swapping s
 | **14** | 3s | 0 | 0 | 25 | 30 | 6 | 4 | 18 | 4s |
 | **15** | 3s | 0 | 0 | 15 | 35 | 6 | 4 | 18 | 2s |
 
-> 18* - Whirlers start to move on Level 13
+> 18* - Whirlers start to move on Level 12
 
-> 6s* - Rocks start to spawn every 6 seconds on Level 14
+> 6s* - Rocks start to spawn every 6 seconds on Level 13
 
 ---
 
-## 🏆 Game Modes
+### Game Modes
 
-### **Collaborative Mode**
-* Standard progression through all 15 levels.
-* Focus is on survival and reaching the end.
-
-### **Competitive Mode**
-* **Goal:** Be the first to reach **5 points** to win.
-* **Scoring:** Gain points by reaching the end of a level without dying.
-* **Feature:** Added environmental hazard with **Rocks** that fall and hit the player.
-
+* **Collaborative:** Players work together to clear all 15 levels (each player starts with 30 lives).
+* **Competitive:** A race mode where the first player to reach the end 5 times (5 points) wins.
+  
 ---
 
 ## History
