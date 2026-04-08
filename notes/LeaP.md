@@ -50,6 +50,7 @@ The difficulty in **LeaP** scales by reducing your **Leap Range** and swapping s
 | **15** | 3s | 0 | 0 | 15 | 35 | 6 | 4 | 18 | 2s |
 
 > 18* - Whirlers start to move on Level 13
+
 > 6s* - Rocks start to spawn every 6 seconds on Level 14
 
 ---
