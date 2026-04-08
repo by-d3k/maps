@@ -15,7 +15,7 @@ Download: [LeaP](../files/LeaP.scx)
 
 ## 🛡️ Safe Pads
 
-To survive, you must land your leap on a pad like a **Safe Pad**:
+To survive, you must land your leap on a pad:
 
 * **Safe Pads**: These are the safest and most reliable. They move, but they're slow.
 * **Floaters**: These dissappear after 3-4 seconds. Quickly find another to jump to after landing.
