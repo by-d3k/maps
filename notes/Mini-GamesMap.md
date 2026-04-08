@@ -10,7 +10,7 @@ Download: [Mini-Games Map](../files/Mini-Games_Map.scx)
 
 There are 22 mini-games to choose from:
 
-| # | Name | Objective |
+| # | Mini-Game Name | Objective |
 | --- | --- | --- |
 | 1 | Maze | Find the exit. |
 | 2 | Glitchy Wall Jump | Jump over crystals without touching purple ones. |
@@ -28,9 +28,9 @@ There are 22 mini-games to choose from:
 | 14 | 5 Bounds | Navigate 5 levels of explosion obstacles. |
 | 15 | Collectin Scouts | Bump into Scouts to reach 10 points; avoid Wraiths. |
 | 16 | Missile Launching | Use Dark Swarm to fire missiles and kill all enemy units. |
-| 17 | Warm & Cold | Find a hidden Infested Terran using "Warm/Cold" text hints. |
-| 18 | Mixture Madness | Kill specific Lurkers to reach a balanced resource count. |
+| 17 | Warm & Cold | Find a hidden location using "Warm/Cold" text hints. |
+| 18 | Mixture Madness | Kill specific Lurkers in a swarm of unburrowed units. |
 | 19 | The Cave of Doom | Reach the end of the cave area while surviving. |
 | 20 | Consolidation | Place exactly 24 units on a single point. |
-| 21 | Mystic Templar | Reach the Templar location to clear the area. |
-| 22 | Ghost Micro | Navigate a Ghost to the end point ("End Ghost Micro"). |
+| 21 | Mystic Templar | Reach the illusive Templar. |
+| 22 | Ghost Micro | Fight through a path filled with Marines using a Ghost. |
