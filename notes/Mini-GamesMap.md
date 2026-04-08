@@ -34,3 +34,20 @@ There are 22 mini-games to choose from:
 | 20 | Consolidation | Place exactly 24 units on a single point. |
 | 21 | Mystic Templar | Reach the illusive Templar. |
 | 22 | Ghost Micro | Fight through a path filled with Marines using a Ghost. |
+
+-----
+
+## History
+
+**v1.03**
+* Added Competition and Collaboration mode
+* Victory and Defeat triggers added
+
+**v1.02**
+* New Consolidation Mini-Game
+* New Mixture Madness Mini-Game
+* Yellow Rines Mini-Game hardened
+* BullzEye Mini-Game hardened
+* Maze Mini-Game expanded
+* Pattern Puzzle Mini-Game expanded, +4 puzzles
+* Glitchy Wall Jump Mini-Game glitch fixed
