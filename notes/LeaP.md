@@ -32,7 +32,7 @@ To survive, you must land your leap on a pad:
 
 ## Hazards
 
-You can also die from one of a few dangerous elements (watch out!):
+You can also die from one of these dangerous elements:
 
 * **Sinkers**: These explode on contact.
 * **Rocks**: When these spawn, they fall from the top of the map every few seconds.
@@ -79,7 +79,7 @@ The difficulty in **LeaP** scales by reducing your **Leap Range** and swapping s
 
 ### **v1.07**
 - Player 1 is no longer required
-- Major gameplay flaw addressed where player could use hotkey to control unit mid-leap
+- Players can no longer use hotkeys to control units mid-leap
 - Adjusted levels in collaborative mode so that they're more diverse
 - Leap range now decreases in competitive mode
 - Added Whirlers
