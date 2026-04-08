@@ -32,7 +32,7 @@ To survive, you must land your leap on a pad:
 
 ## Hazards
 
-You can also die from one of a few dangerous element:
+You can also die from one of a few dangerous elements (watch out!):
 
 * **Sinkers**: These explode on contact.
 * **Rocks**: When these spawn, they fall from the top of the map every few seconds.
