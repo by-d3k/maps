@@ -14,6 +14,12 @@ A sequel to the original [Escape From Prison](./EscapeFromPrison.scm).
 
 ## History
 
+### **v1.13**
+* Made the "last stretch" area more fun and less impossible.
+* Added a third secret
+* Boss is less likely to get stuck now
+* Enemy tanks less likely to wander 
+
 ### **v1.12**
 * Corrected an issue where units were not properly given to Player 2.
 * Applied a potential fix for the "Key 3" bug.
