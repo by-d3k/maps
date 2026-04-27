@@ -2,7 +2,7 @@
 
 -----
 
-Download: [NFL Blitz 4v4](../files/NFL%20Blitz%20%5B4v4%5D.scx)
+Download: [NFL Blitz 4v4](../files/NFLBlitz%5B4v4-Beta%5D.scx)
 
 -----
 
