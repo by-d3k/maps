@@ -183,7 +183,7 @@ A remake of the original [Baseball](https://scmscx.com/map/kV5f4jYD) map by Drag
 
 ## **Spitball**
 - Always results in a foul ball straight back to the catcher  
-- Can result in a **Foul Tip** if caught  
+- Can result in a out if caught by catcher
 - Pull Hitting on inside pitches reduces foul chance by **75%**  
 - Same for Opposite Field Hitting  
 - Nullifies all **Hard Hits**
@@ -530,12 +530,18 @@ A remake of the original [Baseball](https://scmscx.com/map/kV5f4jYD) map by Drag
 
 ## History
 
+### **v1.29**
+- Fixed a bug where strikeout on a foul bunt recreated same player
+- Batting order should now be more accurate after inning ends
+
 ### **v1.28**
 - Stick Bat Aim can now be adjusted by tank position
 - Siege no longer resets tank to center hit position
 - Catchers get moved if too close to the plate or batter
 - Fixed a bug where tagging one runner resulted in more than one out
 - Runners of the same type are now deterred from crossing paths
+- Running out of the base line for too long results in an out
+- Added notification of Strong Throw
 
 ### **v1.27**
 - Player 1 is no longer required
