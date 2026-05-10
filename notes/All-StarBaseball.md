@@ -80,7 +80,9 @@ A remake of the original [Baseball](https://scmscx.com/map/kV5f4jYD) map by Drag
 - Move the **Ball** (Scourge) to throw it  
 - Use **Quick Throwing** (Dropship) to throw faster  
 - A quickly thrown ball loses speed after 4 seconds  
-- Time the throw correctly to make it go farther (when gas is 15)  
+- Time the throw correctly to make it go farther (when gas is 15)
+- Cut off a quick throw by positioning a fielder under it mid-flight and unloading any dropship unit
+- Good defense rewards the entire team with **Special Pitches** and **Special Bats** (ex: Double Play)
 - If a hit ball has a blood trail, it’s about to drop and can be caught
 
 ---
@@ -533,6 +535,13 @@ A remake of the original [Baseball](https://scmscx.com/map/kV5f4jYD) map by Drag
 ### **v1.29**
 - Fixed a bug where strikeout on a foul bunt recreated same player
 - Batting order should now be more accurate after inning ends
+- Double Plays, Triple Plays, and Highlight catches now award Special Bats and Pitches
+- Silenced the carrier in the top right
+- Added a throw to the plate sound
+- Added audio cues for rewards
+- More consistent Double and Triple play notifications 
+- Ball no longer instantly teleports from catcher to pitcher after a bunt tag out
+- Inside-the-park home run notification
 
 ### **v1.28**
 - Stick Bat Aim can now be adjusted by tank position
